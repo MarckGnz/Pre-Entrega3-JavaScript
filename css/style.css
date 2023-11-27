@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav img{
+    width: 125px;
+}
+
+img{
+    width: 100%;
+}
+
+main{
+    min-height: calc(120vh - 100px - 300px);
+    margin: 50px;
+}
+
+.footer{
+    background-color: black;
+}
+
+.footer p{
+    text-align: center;
+    color: aliceblue;
+}
+
+.agregar{
+    background-color: rgb(255, 0, 0);
+    margin: 25px;
+    width: 100%;
+}
